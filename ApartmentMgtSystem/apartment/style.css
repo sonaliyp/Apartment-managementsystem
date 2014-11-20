@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 31, 2014, 8:37:40 AM
+    Author     : sonali
+*/
+
+h1
+{
+    text-shadow: 5px 5px 5px #FF0000;
+} 
+
+#sidebar {
+    float: left;
+    width: 300px;
+    border:1px ;
+    background-color:#b0e0e6;
+ //   box-shadow: 10px 10px 5px #888888;
+   height: 700px;
+    background-image: url(images/seamless-background-simply-sky.jpg);
+}
+
+#main {
+    background-image: url(images/seamless-background-simply-sky.jpg);
+    margin-left: 10px;
+    padding-left: 10px;
+    float: left;
+    width: 700px;
+    height: 700px;
+    border:1px ;
+    background-color:#b0e0e6;
+   // box-shadow: 10px 10px 5px #888888;
+}
+#banner-title{
+    background-image: url(images/news.jpg);
+    margin-left: 10px;
+    padding-left: 10px;
+    float: left;
+    width: 500px;
+    height: 700px;
+    border:1px ;
+   // background-color:#b0e0e6;
+   // box-shadow: 10px 10px 5px #888888;
+}
+
+table
+{
+    border-collapse:collapse;
+}
+table,th, td
+{
+    border: 1px solid black;
+}
+
+
